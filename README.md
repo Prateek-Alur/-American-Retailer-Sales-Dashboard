@@ -51,7 +51,9 @@ The dashboard includes:
 ---
 
 ## Screenshots
-![Dashboard Overview]("C:\Users\alurp\OneDrive\Pictures\Screenshots\Screenshot 2025-01-14 125044.png")
+Dashboard Overview:
+![Screenshot 2025-01-14 125044](https://github.com/user-attachments/assets/8f8bd905-b3dc-4b67-83c3-0993b47c903e)
+
 
 ---
 
